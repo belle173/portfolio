@@ -1,0 +1,29 @@
+div{
+  margin: 200px;
+}
+
+h2{
+  font-family: monospace;
+}
+h1 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-transform: uppercase;
+  font-size: 80px;
+}
+p{
+ font-family: monospace;
+ margin-right: 800px;
+}
+
+button {
+  background-color: white;
+  color: #555555;
+  border: 2px solid #555555;
+  font-family: monospace;
+  
+}
+
+  button:hover {
+    background-color: #555555;
+    color: white;
+  }
