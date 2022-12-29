@@ -4,5 +4,7 @@ h2,p{
 }
 
 div{
-margin: 300px;
+max-width: 80%;
+margin: auto;
+height: 100vh;
   }

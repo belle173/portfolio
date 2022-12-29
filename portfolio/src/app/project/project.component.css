@@ -9,6 +9,12 @@
   display: flex;
   margin: auto;
   min-width: 100%;
+  flex-wrap: wrap;
+
+}
+
+.proj-cont{
+  max-width: 1070px;
 }
 
 button {
@@ -22,5 +28,4 @@ button {
     background-color: #555555;
     color: white;
   }
-    
-  
+
